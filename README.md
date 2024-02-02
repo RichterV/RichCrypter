@@ -2,25 +2,23 @@
 
 <img src="icon_png.png" alt="RichCrypter Logo" width="400" height="400">
 
-<h2>Descrição</h2>
-<p>O RichCrypter é uma ferramenta simples e eficaz para a geração de chaves binárias únicas, que podem ser utilizadas para criptografar e proteger suas senhas salvas em arquivos txt. Com este programa, você pode fortalecer a segurança de suas informações confidenciais, garantindo que apenas quem possui a chave correspondente seja capaz de realizar a descriptografia.</p>
-<p>Possui a versão em CLI e com interface gráfica.</p>
+<h2>Description</h2>
+<p>RichCrypter is a simple and effective tool for generating unique binary keys that can be used to encrypt and secure your passwords and documents saved in TXT or PDF files. With this program, you can strengthen the security of your confidential information, ensuring that only those with the corresponding key can perform decryption.</p>
 
-<h2>Funcionalidades</h2>
+<h2>Features</h2>
 <ul>
-    <li>Gera chaves binárias únicas.</li>
-    <li>Permite a criptografia de senhas em arquivos txt.</li>
-    <li>Apenas quem possui a chave correspondente pode descriptografar os dados.</li>
+    <li>Generates unique binary keys.</li>
+    <li>Allows encryption of passwords in TXT files.</li>
+    <li>Allows encryption of passwords in PDF files.</li>
+    <li>Only those with the corresponding key can decrypt the data.</li>
 </ul>
 
-<h2>Como Usar</h2>
+<h2>How to Use</h2>
 <ul>
-    <li>Crie sua chave binária única clicando em "Generate Encryption Key"</li>
-    <li><strong>Atenção:</strong> sua chave binária é única e deve ser protegida. Sem ela, será impossível descriptografar os arquivos.</li>
-    <li>Salve seu texto(s) para criptografar em um arquivo .txt</li>
-    <li>Clique em "Encrypt Files" e selecione o(s) arquivo .txt e a chave binária criada.</li>
-    <li>Para descriptografar basta clicar em "Decrypt Files", selecionar a chave binária utilizada na criptografia e os arquivos .bin a serem descriptografados.</li>
-    <li>Você pode salvar os arquivos descriptografados como .txt ou apenas mostrar a mensagem na tela sem salvar nenhum arquivo.</li>
+    <li>Create your unique binary key by clicking "Generate Encryption Key".</li>
+    <li><strong>Attention:</strong> Your binary key is unique and must be protected. Without it, decrypting files will be impossible.</li>
+    <li>Click "Select Encryption Key" to choose your binary key.</li>
+    <li>Click "Encrypt Files" and select the file(s).</li>
+    <li>To decrypt, simply click "Decrypt Files".</li>
+    <li>You can save the decrypted files or just display the content on the screen without saving any files.</li>
 </ul>
-
-
